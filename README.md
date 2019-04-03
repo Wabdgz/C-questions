@@ -1,9 +1,14 @@
 # C-questions
 1.Namespaces are sued to organize and control classes and methods.https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
+
 2.Value tupes are your int, char, and floats, holds and maintains direct data. Directly called. https://www.tutorialspoint.com/csharp/csharp_data_types.htm
+
 3.Refernece types are exs are string and object. They don't store data but rather the address if the data storied like apointer. https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type
+
 4.Automactic property helps creates properties easier and shorter. Its useful becuase it dosen't require alot of extra logic in setting it up your properites. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties
+
 5.The using stmaent always ensure that Dispose is alwyas called even if theres is an excpeiton stopping the flow of the code.https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+
 6.Dynamic type varibales are staic varriables, that aren't acutlly staic, as in they by pass all of staics usuals checkes and is used to help supoort your code and methods. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic
 7.The IS operator determiens if an object instance or result of an expresioion can be converted to a specific type. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/is
 8.Genereircs allows the user type in his own generic classes and methods names as placeholders. https://www.geeksforgeeks.org/c-sharp-generics-introduction/
